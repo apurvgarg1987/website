@@ -1,2 +1,2 @@
-FROM openjdk:8-jre-alpine
+FROM hshar/webapp
 ADD . /var/www/html
